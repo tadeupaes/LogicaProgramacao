@@ -1,0 +1,88 @@
+Aula 01 – Introdução à Lógica de Programação
+
+🎯 Objetivos da Aula
+
+Compreender o que é lógica de programação.
+
+Definir algoritmo e suas características.
+
+Reconhecer a importância da lógica na resolução de problemas computacionais.
+
+Introduzir fluxogramas como ferramenta de representação de algoritmos.
+
+📖 1. O que é Lógica de Programação?
+
+Lógica de programação é a capacidade de organizar ideias e instruções de forma estruturada para resolver problemas utilizando o computador.
+Ela é a base da programação em qualquer linguagem, pois permite transformar problemas do mundo real em soluções computacionais.
+
+🔑 Resumo: A lógica é a ponte entre o pensamento humano e a linguagem da máquina.
+
+📖 2. O que é um Algoritmo?
+
+Um algoritmo é um conjunto finito e ordenado de instruções que descrevem a sequência de passos necessários para resolver um problema.
+
+✨ Características de um algoritmo:
+
+Finitude: deve ter fim, não pode ser infinito.
+
+Sequência: deve seguir uma ordem lógica.
+
+Clareza: cada passo deve ser simples e compreensível.
+
+Generalidade: deve poder ser aplicado a diferentes situações do mesmo tipo.
+
+📝 Exemplo de algoritmo (fazer café):
+
+Esquentar a água.
+
+Colocar o pó de café no filtro.
+
+Despejar a água quente sobre o pó.
+
+Servir o café.
+
+Note que não há código ainda — apenas passos organizados.
+
+📖 3. O que é um Fluxograma?
+
+Um fluxograma é a representação gráfica de um algoritmo, usando símbolos padronizados para indicar ações, decisões e fluxos de execução.
+
+🔹 Principais símbolos:
+
+⬛ Retângulo: processo ou ação.
+
+🔺 Losango: decisão (condicional).
+
+🔘 Elipse: início ou fim.
+
+➝ Seta: direção do fluxo.
+
+📝 Exemplo – Fazer café (fluxograma simplificado):
+´´´
+
+[Início] → [Esquentar água] → [Colocar pó no filtro]  
+   ↓
+[Despejar água] → [Servir café] → [Fim]
+
+´´´
+📖 4. Importância da Lógica de Programação
+
+Base de todas as linguagens: antes de aprender Python, Java ou C, é preciso entender como pensar de forma lógica.
+
+Resolução de problemas: estimula o raciocínio estruturado.
+
+Eficiência: ajuda a criar soluções mais rápidas e organizadas.
+
+Redução de erros: programas bem planejados apresentam menos falhas.
+
+🔑 Pensar como programador significa transformar problemas em passos claros e executáveis.
+
+🏆 Exercícios Práticos
+
+Explique com suas palavras: O que é lógica de programação?
+
+Liste 5 algoritmos do cotidiano (exemplo: escovar os dentes, atravessar a rua, fazer compras etc.).
+
+Monte um fluxograma simples representando o algoritmo de escovar os dentes.
+
+Reflita: Por que aprender lógica de programação antes de uma linguagem é importante?
