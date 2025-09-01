@@ -32,6 +32,7 @@ Clareza: cada passo deve ser simples e compreensível.
 Generalidade: deve poder ser aplicado a diferentes situações do mesmo tipo.
 
 📝 Exemplo de algoritmo (fazer café):
+```
 
 Esquentar a água.
 
@@ -40,6 +41,8 @@ Colocar o pó de café no filtro.
 Despejar a água quente sobre o pó.
 
 Servir o café.
+
+```
 
 Note que não há código ainda — apenas passos organizados.
 
@@ -58,13 +61,14 @@ Um fluxograma é a representação gráfica de um algoritmo, usando símbolos pa
 ➝ Seta: direção do fluxo.
 
 📝 Exemplo – Fazer café (fluxograma simplificado):
-´´´
+
+```Python
 
 [Início] → [Esquentar água] → [Colocar pó no filtro]  
    ↓
 [Despejar água] → [Servir café] → [Fim]
 
-´´´
+```
 📖 4. Importância da Lógica de Programação
 
 Base de todas as linguagens: antes de aprender Python, Java ou C, é preciso entender como pensar de forma lógica.
