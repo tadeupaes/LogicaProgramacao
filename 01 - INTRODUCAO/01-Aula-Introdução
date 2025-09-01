@@ -1,5 +1,5 @@
 
-*Aula 01 – Introdução à Lógica de Programação*
+***Aula 01 – Introdução à Lógica de Programação***
 
 🎯 Objetivos da Aula
 
@@ -33,7 +33,7 @@ Clareza: cada passo deve ser simples e compreensível.
 Generalidade: deve poder ser aplicado a diferentes situações do mesmo tipo.
 
 📝 Exemplo de algoritmo (fazer café):
-```
+```python
 
 Esquentar a água.
 
